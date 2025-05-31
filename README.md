@@ -13,19 +13,22 @@ This project applies regression modeling to predict housing prices in Cook Count
 
 housing-price-prediction/
 ├── project_workspace.ipynb # Main notebook with all code and commentary
-├── .gitignore # Ensures data files aren't tracked
 ├── README.md # This file
-└── data/ # (You need to create this locally)
+
 > ⚠️ **Note:** The dataset used in this project is too large for GitHub. Please download it manually and place it in a folder called `data/` in the root directory.
+
+## 📊 Dataset Source
+
+This project uses the [Assessor – Parcel Sales dataset](https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Sales/wvhk-k5uv) provided by the Cook County Assessor’s Office.
 
 ## 🧠 Skills Demonstrated
 
-- Data wrangling and cleaning
-- Feature extraction (log transforms, domain-specific features)
-- Model training and validation
-- Use of `sklearn` and `pandas` for predictive modeling
+- Data wrangling and cleaning  
+- Feature extraction (log transforms, domain-specific features)  
+- Model training and validation  
+- Use of `sklearn` and `pandas` for predictive modeling  
 - Awareness of fairness in machine learning
 
-## 📬 Author
-Ethan Ngo
+## 📬 Author  
+Ethan Ngo  
 Data Science @ UC Berkeley
