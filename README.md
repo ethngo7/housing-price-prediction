@@ -23,6 +23,6 @@ This project uses the [Assessor – Parcel Sales dataset](https://datacatalog.co
 - Use of `sklearn` and `pandas` for predictive modeling  
 - Awareness of fairness in machine learning
 
-## 📬 Author  
+## Author  
 Ethan Ngo  
 Data Science @ UC Berkeley
