@@ -9,11 +9,10 @@ This project applies regression modeling to predict housing prices in Cook Count
 - Trained linear regression models and evaluated with RMSE
 - Considered the social consequences of prediction errors (e.g. over/undervaluation for different income groups)
 
-> ⚠️ **Note:** The dataset used in this project is too large for GitHub. Please check it out at the **Dataset Source** below.
-
 ## 📊 Dataset Source
 
 This project uses the [Assessor – Parcel Sales dataset](https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Sales/wvhk-k5uv/about_data) provided by the Cook County Assessor’s Office.
+> ⚠️ **Note:** The dataset used in this project is too large for GitHub. Please check it out at the **Dataset Source** below.
 
 ## 🧠 Skills Demonstrated
 
