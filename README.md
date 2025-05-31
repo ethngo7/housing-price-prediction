@@ -9,13 +9,7 @@ This project applies regression modeling to predict housing prices in Cook Count
 - Trained linear regression models and evaluated with RMSE
 - Considered the social consequences of prediction errors (e.g. over/undervaluation for different income groups)
 
-## 📁 Folder Structure
-
-housing-price-prediction/
-├── project_workspace.ipynb # Main notebook with all code and commentary
-├── README.md # This file
-
-> ⚠️ **Note:** The dataset used in this project is too large for GitHub. Please download it manually and place it in a folder called `data/` in the root directory.
+> ⚠️ **Note:** The dataset used in this project is too large for GitHub. Please check it out at the **Dataset Source** below.
 
 ## 📊 Dataset Source
 
