@@ -13,7 +13,7 @@ This project applies regression modeling to predict housing prices in Cook Count
 
 ## 📊 Dataset Source
 
-This project uses the [Assessor – Parcel Sales dataset](https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Sales/wvhk-k5uv) provided by the Cook County Assessor’s Office.
+This project uses the [Assessor – Parcel Sales dataset]([https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Sales/wvhk-k5uv](https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Sales/wvhk-k5uv/about_data)) provided by the Cook County Assessor’s Office.
 
 ## 🧠 Skills Demonstrated
 
