@@ -11,6 +11,8 @@ This project applies regression modeling to predict housing prices in Cook Count
 - Trained linear regression models and evaluated with RMSE
 - Considered the social consequences of prediction errors (e.g. over/undervaluation for different income groups)
 
+### Below are some visualizations I have from the project:
+
 <img width="815" alt="Screenshot 2025-06-11 at 14 01 51" src="https://github.com/user-attachments/assets/f0df42df-7188-4451-b415-ccd4f2086fdd" />
 <img width="557" alt="Screenshot 2025-06-11 at 14 00 48" src="https://github.com/user-attachments/assets/55794293-79f4-4ac9-9ed2-6a311060b162" />
 
