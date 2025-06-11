@@ -1,4 +1,4 @@
-# Housing Price Prediction in Cook County
+# Housing Price Prediction in Cook County (to see full code, look within the .ipynb file)
 
 This project applies regression modeling to predict housing prices in Cook County, Illinois. The goal is to build an accurate and fair model while considering social and ethical implications of predictive errors in property valuation, particularly in the context of racial inequality and tax fairness. Here is an article detailing the situation in 2017: [Chicago Tribune](https://apps.chicagotribune.com/news/watchdog/cook-county-property-tax-divide/assessments.html)
 
